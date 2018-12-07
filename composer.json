@@ -33,7 +33,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "LaraVue\\": "app/"
         },
         "classmap": [
             "database/seeds",

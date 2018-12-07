@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace LaraVue\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
